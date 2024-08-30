@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "575876990233",
+    "firebase_url": "https://chathere-ff021-default-rtdb.firebaseio.com",
+    "project_id": "chathere-ff021",
+    "storage_bucket": "chathere-ff021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575876990233:android:b8a4ee9cd22f2f906bb188",
+        "android_client_info": {
+          "package_name": "com.example.chathere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwD9hQOoo2zzZ_HeC_M1p33ctYhRjrXGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575876990233:android:fd12d5e6577ef0256bb188",
+        "android_client_info": {
+          "package_name": "com.example.colorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwD9hQOoo2zzZ_HeC_M1p33ctYhRjrXGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
